@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+
+update.sh
+*.pdf
+*.docx
+
+headshot.jpg
