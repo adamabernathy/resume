@@ -49,7 +49,7 @@ References
 
 **_Research Associate_**, Dept. of Atmospheric Sciences, 2016 – 2018
 
-Conduct research on methods to improve surface based observations data quality.  Class instructor for undergraduate and graduate level computer science courses focusing on computational physics and data analysis.  At the graduate level, coursework focused on optimization and computer engineering concepts to build reliable mission critical applications.  Work funded by National MesoNet Program (NMP) and contracts issued by NOAA and National Weather Service via Dr. John Horel’s research group.
+Conduct research on methods to improve surface based observations data quality.  Class instructor for undergraduate and graduate level computer science courses focusing on computational physics and data analysis.  At the graduate level, coursework focused on optimization and computer engineering concepts to build reliable mission critical applications.  Work funded by [National MesoNet Program][nat-mesonet-program] (NMP) and contracts issued by NOAA and National Weather Service via Dr. John Horel’s research group.
 
 **_Graduate Research Assistant_**, Dept. of Atmospheric Sciences, 2014 – 2016
 
@@ -137,3 +137,5 @@ Gerald G. Mace and **A. Abernathy** (2015), Seasonal Variability of Clouds and P
 [atmos-forecast]: https://forecast.utah.edu
 [lassonde-home]: https://lassonde.utah.edu/
 [lassonde-award]: https://lassonde.utah.edu/wp/wp-content/uploads/2014/03/Student-Innovation-Report-030514_LR.pdf
+
+[nat-mesonet-program]: https://synopticdata.com/national-mesonet-program
